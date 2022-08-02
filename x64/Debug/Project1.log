@@ -1,0 +1,8 @@
+﻿  game.cpp
+E:\Visual Studio Projects\Project1\snake.h(29,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Visual Studio Projects\Project1\snake.h(30,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Visual Studio Projects\Project1\game.h(26,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Visual Studio Projects\Project1\game.cpp(11,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Visual Studio Projects\Project1\game.cpp(12,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Visual Studio Projects\Project1\game.cpp(78,61): warning C4267: 'argument': conversion from 'size_t' to 'Uint32', possible loss of data
+  Project1.vcxproj -> E:\Visual Studio Projects\Project1\x64\Debug\Project1.exe
